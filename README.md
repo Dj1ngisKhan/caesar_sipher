@@ -1,23 +1,24 @@
 # Encryption, Decryption and Brute Force
 
+        
+             /A\
+            //I\\
+           ///I\\\
+          ////I\\\\
+         /////I\\\\\
+        //////I\\\\\\
+       ///////I\\\\\\\
+      ////////I\\\\\\\\
+     /////////I\\\\\\\\\
+    //////////I\\\\\\\\\\
+    '////////I\\\\\\\\'
+      '//////I\\\\\\'
+        '////I\\\\'
+          '//I\\'
+            'I'
+
 ## Caesar Cipher based encryption, with a little twist....
 
-   _  ,~~~~~~~~~~,
-                         9>)(_______     \
-                          (()_____   /    )_
-                           /     ///  / /)(()
-                           |--    //___ \)())
-                           )c>-    ___    )())
-                          /      s)_     )  (()
-                          `      " _     )   ())
-                           >     /  _   )    (()
-                           L____/    -_)     ())
-                              \      |      (()
-                               \      \    (()
-                                \      \   ())
-                                _\    _<7\ (()
-       )                        .-<-7\7\ ())
-       (                     //
 
 Just download and run the code, and then it should be pretty self-explanitory what to do.
 
@@ -34,3 +35,5 @@ So, there are 3 options...
 
 So play around with it through different ways. Try it at least, pretty cool - but nothing safe to encrypt any message with!
 Unless you live in ancient Egypt... ( :
+
+See `Egypt' for more!
